@@ -1,4 +1,7 @@
 body{
     background-color: #aaa;
 }
-h1{font-size: 20px;}
+h1{font-size: 20px ;};
+h2{
+    color:red
+}
